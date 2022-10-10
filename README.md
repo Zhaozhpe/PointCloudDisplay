@@ -20,4 +20,4 @@ OpenTK.GLControl 3.0.0.0
 ## Visualization Optimization with Octree
 `class octree, octNode`: improve the processing efficiency of point clouds in large quantities
 
-<img src=https://github.com/Zhaozhpe/PointCloudDisplay/blob/master/IMG/form.png width=50% />
+<img src=https://github.com/Zhaozhpe/PointCloudDisplay/blob/master/IMG/example.png width=50% />
