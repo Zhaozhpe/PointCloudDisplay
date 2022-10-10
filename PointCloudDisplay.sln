@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointCloudDisplay", "PointCloudDisplay\PointCloudDisplay.csproj", "{7D34D6EC-9237-4E15-8F9E-F281BF665041}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D34D6EC-9237-4E15-8F9E-F281BF665041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D34D6EC-9237-4E15-8F9E-F281BF665041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D34D6EC-9237-4E15-8F9E-F281BF665041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D34D6EC-9237-4E15-8F9E-F281BF665041}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {123F5362-3114-46CD-A71D-C2068EBCAFC9}
+	EndGlobalSection
+EndGlobal
