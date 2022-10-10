@@ -8,8 +8,11 @@ OpenTK 3.0.0.0
 
 OpenTK.GLControl 3.0.0.0
 ## Form design
-
 - [x] Projection mode
 - [x] Basic graph drawing
 - [x] Orientation shift
 - [x] Point cloud coloring
+
+![image](https://github.com/Zhaozhpe/PointCloudDisplay/blob/master/IMG/form.png "form")
+
+## Point Cloud Visualization
